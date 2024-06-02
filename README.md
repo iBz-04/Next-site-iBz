@@ -4,7 +4,7 @@
 
 # Project Title
 iBz:
-This is a fictional Development Agency
+This is a fictional Development Studio Agency
 
 
 ## Tech Stack
